@@ -1,218 +1,292 @@
 {
 	"GAMEPLAY_ElectronicParts" : {
                             "English" : "Electronic Parts",
-							"Spanish (Spain)" : "Piezas electrónicas"
+							"Spanish (Spain)" : "Piezas electrónicas",
+							"Turkish" : "Elektronik Parçalar"
     },
     "GAMEPLAY_ElectronicPartsDescription" : {
                             "English" : "A burned-out fuse and spare parts... might be useful.",
-							"Spanish (Spain)" : "Un fusible quemado y piezas sueltas... puede que sea útil."
+							"Spanish (Spain)" : "Un fusible quemado y piezas sueltas... puede que sea útil.",
+							"Turkish" : "Yanmış bir sigorta ve yedek parçalar... faydalı olabilir."
     },
 	"GAMEPLAY_GunParts" : {
                             "English" : "Gun Parts",
-							"Spanish (Spain)" : "Piezas de arma"
+							"Spanish (Spain)" : "Piezas de arma",
+							"Turkish" : "Silah parçaları"
     },
     "GAMEPLAY_GunPartsDescription" : {
                             "English" : "A box full of parts harvested from a gun.",
-							"Spanish (Spain)" : "Una caja llena de piezas extraidas de un arma."
+							"Spanish (Spain)" : "Una caja llena de piezas extraidas de un arma.",
+							"Turkish" : "Bir kutu dolusu silahtan alınmış parçalar."
     },
 	"GAMEPLAY_MetalBoxForge" : {
                             "English" : "Metal Box",
-							"Spanish (Spain)" : "Caja metálica"
+							"Spanish (Spain)" : "Caja metálica",
+							"Turkish" : "Metal Kutu"
     },
     "GAMEPLAY_MetalBoxForgeDescription" : {
                             "English" : "A big metal box that can be used for many things.",
-							"Spanish (Spain)" : "Una gran caja de metal que puede usarse para muchas cosas."
+							"Spanish (Spain)" : "Una gran caja de metal que puede usarse para muchas cosas.",
+							"Turkish" : "Birçok şey için kullanılabilen büyük bir metal kutu."
     },
 	"GAMEPLAY_TarpSheet" : {
 							 "English" : "Tarp Sheet",
-							"Spanish (Spain)" : "Lona"
+							"Spanish (Spain)" : "Lona",
+							"Turkish" : "Muşamba"
 	},
 	"GAMEPLAY_TarpSheetDescription" : {
 							"English" : "A big, sturdy piece of hemp fibers with metal rings attached.",
-							"Spanish (Spain)" : "Una pieza grande y resistente de fibras de cáñamo con anillos de metal unidos."
+							"Spanish (Spain)" : "Una pieza grande y resistente de fibras de cáñamo con anillos de metal unidos.",
+							"Turkish" : "Metal halkalar takılı büyük, sağlam bir kenevir lifi parçası."
 	},
 	"GAMEPLAY_TapeRoll" : {
 							"English" : "Tape Roll",
-							"Spanish (Spain)" : "Rollo de cinta"
+							"Spanish (Spain)" : "Rollo de cinta",
+							"Turkish" : "Rulo Bant"
 	},
 	"GAMEPLAY_TapeRollDescription" : {
 							"English" : "A roll of industrial-grade duct tape. Useful for patching holes and glue things together.",
-							"Spanish (Spain)" : "Un rollo de cinta adhesiva industrial. Útil para tapar agujeros y pegar cosas."
+							"Spanish (Spain)" : "Un rollo de cinta adhesiva industrial. Útil para tapar agujeros y pegar cosas.",
+							"Turkish" : "Endüstriyel sınıf bir koli bandı. Delikleri yamamak ve eşyaları birbirine yapıştırmak için kullanışlıdır."
 	},
 	"GAMEPLAY_CrumpledPaper" : {
 							 "English" : "Scrap Paper",
-							"Spanish (Spain)" : "Trozo de papel"
+							"Spanish (Spain)" : "Trozo de papel",
+							"Turkish" : "Kağıt parçası"
 	},
 	"GAMEPLAY_CrumpledPaperDescription" : {
 							"English" : "It's just paper. You could burn it.",
-							"Spanish (Spain)" : "Es solo papel. Podrías quemarlo."
+							"Spanish (Spain)" : "Es solo papel. Podrías quemarlo.",
+							"Turkish" : "Sadece kağıt. Yakabilirsin."
 	},
 	"GAMEPLAY_ScrapPlastic" : {
 							 "English" : "Plastic Waste",
-							"Spanish (Spain)" : "Desechos plásticos"
+							"Spanish (Spain)" : "Desechos plásticos",
+							"Turkish" : "Plastik Atıklar"
 	},
 	"GAMEPLAY_ScrapPlasticDescription" : {
 							"English" : "A bunch of plastic waste. And people wondered why all of this happened.",
-							"Spanish (Spain)" : "Un puñado de desechos plásticos. Y la gente se preguntaba por qué todo esto ha pasado."
+							"Spanish (Spain)" : "Un puñado de desechos plásticos. Y la gente se preguntaba por qué todo esto ha pasado.",
+							"Turkish" : "Bir avuç plastik atık. Ve insanlar tüm bunların neden olduğunu merak ediyor."
 	},
 	"GAMEPLAY_Flint" : {
                             "English" : "Flint",
-							"Spanish (Spain)" : "Pedernal"
+							"Spanish (Spain)" : "Pedernal",
+							"Turkish" : "Çakmaktaşı"
     },
     "GAMEPLAY_FlintDescription" : {
                             "English" : "A piece of dark quartz that produces sparks when hit.",
-							"Spanish (Spain)" : "Un trozo de cuarzo oscuro que produce chispas al ser golpeado."
+							"Spanish (Spain)" : "Un trozo de cuarzo oscuro que produce chispas al ser golpeado.",
+							"Turkish" : "Vurulduğunda kıvılcım çıkaran koyu renkli bir kuvars parçası."
     },
 	"GAMEPLAY_Rock" : {
                             "English" : "Rock",
-							"Spanish (Spain)" : "Roca"
+							"Spanish (Spain)" : "Roca",
+							"Turkish" : "Kaya"
     },
     "GAMEPLAY_RockDescription" : {
                             "English" : "Just a big, plain rock.",
-							"Spanish (Spain)" : "Es solo una roca grande y normal."
+							"Spanish (Spain)" : "Es solo una roca grande y normal.",
+							"Turkish" : "Sadece büyük, düz bir kaya."
     },
 	"GAMEPLAY_Bones" : {
                             "English" : "Bone Fragments",
-							"Spanish (Spain)" : "Fragmentos de hueso"
+							"Spanish (Spain)" : "Fragmentos de hueso",
+							"Turkish" : "Kemik Parçaları"
     },
     "GAMEPLAY_BonesDescription" : {
                             "English" : "Broken bones harvested from an animal.",
-							"Spanish (Spain)" : "Huesos rotos obtenidso de un animal."
+							"Spanish (Spain)" : "Huesos rotos obtenidso de un animal.",
+							"Turkish" : "Hayvandan elde edilen kırık kemikler."
     },
 	"GAMEPLAY_Battery9V" : {
                             "English" : "Battery",
-							"Spanish (Spain)" : "Batería"
+							"Spanish (Spain)" : "Batería",
+							"Turkish" : "Pil"
     },
     "GAMEPLAY_Battery9VDescription" : {
                             "English" : "A 9V battery, intended for industrial use. This little thing is probably the last place you will find electricity.",
-							"Spanish (Spain)" : "Una batería de 9V, destinada al uso industrial. Probablemente el único lugar donde encontrarás energía."
+							"Spanish (Spain)" : "Una batería de 9V, destinada al uso industrial. Probablemente el único lugar donde encontrarás energía.",
+							"Turkish" : "Endüstriyel kullanım için tasarlanmış 9V pil. Bu küçük şey muhtemelen elektrik bulabileceğiniz son yerdir."
     },
 	"GAMEPLAY_RifleBroken" : {
                             "English" : "Broken Hunting Rifle",
-							"Spanish (Spain)" : "Rifle de caza roto"
+							"Spanish (Spain)" : "Rifle de caza roto",
+							"Turkish" : "Kırık Av Tüfeği"
     },
     "GAMEPLAY_RifleBrokenDescription" : {
                             "English" : "An old .303 calibre bolt-action hunting rifle, broken beyond repair. Whoever owned this had a terrible end.",
-							"Spanish (Spain)" : "Un viejo rifle de caza del calibre .303, sin posibilidad de reparación. A quien sea que perteneció esto tuvo un fatídico final."
+							"Spanish (Spain)" : "Un viejo rifle de caza del calibre .303, sin posibilidad de reparación. A quien sea que perteneció esto tuvo un fatídico final.",
+							"Turkish" : "Eski bir .303 kalibre bolt-action av tüfeği, tamir edilemeyecek şekilde kırılmış. Bunun sahibi her kimse sonu çok kötü olmuş."
     },
 	"GAMEPLAY_NutsNBolts" : {
                             "English" : "Nuts and Bolts",
-							"Spanish (Spain)" : "Tornillos y tuercas"
+							"Spanish (Spain)" : "Tornillos y tuercas",
+							"Turkish" : "Somunlar ve Cıvatalar"
     },
     "GAMEPLAY_NutsNBoltsDescription" : {
                             "English" : "A bunch of assorted metal fasteners.",
-							"Spanish (Spain)" : "Un puñado variado de aseguradores metálicos."
+							"Spanish (Spain)" : "Un puñado variado de aseguradores metálicos.",
+							"Turkish" : "Bir sürü metal bağlantı elemanı."
     },
 	"GAMEPLAY_NutsNBoltsBox" : {
                             "English" : "Nuts and Bolts Box",
-							"Spanish (Spain)" : "Caja de tornillos y tuercas"
+							"Spanish (Spain)" : "Caja de tornillos y tuercas",
+							"Turkish" : "Somunlar ve Cıvatalar Kutusu"
     },
     "GAMEPLAY_NutsNBoltsBoxDescription" : {
                             "English" : "A box of assorted metal fasteners.",
-							"Spanish (Spain)" : "Una caja de aseguradores metálicos varios."
+							"Spanish (Spain)" : "Una caja de aseguradores metálicos varios.",
+							"Turkish" : "Bir kutu çeşitli metal bağlantı elemanı."
     },
 	"GAMEPLAY_StringBundle" : {
                             "English" : "String Bundle",
-							"Spanish (Spain)" : "Rollo de hilo"
+							"Spanish (Spain)" : "Rollo de hilo",
+							"Turkish" : "İp Yumağı"
     },
     "GAMEPLAY_StringBundleDescription" : {
                             "English" : "A roll of nylon fibres meant for sewing.",
-							"Spanish (Spain)" : "Un rollo de fibras de nylon pensadas para coser."
+							"Spanish (Spain)" : "Un rollo de fibras de nylon pensadas para coser.",
+							"Turkish" : "Dikiş için kullanılan rulo naylon elyaf."
     },
 	"GAMEPLAY_StringDurable" : {
                             "English" : "Durable String",
-							"Spanish (Spain)" : "Cuerda fuerte"
+							"Spanish (Spain)" : "Cuerda fuerte",
+							"Turkish" : "Dayanıklı İp"
     },
     "GAMEPLAY_StringDurableDescription" : {
                             "English" : "A roll of strong fibres that can be used for craft and repair.",
-							"Spanish (Spain)" : "Un rollo de fibras duraderas que pueden usarse para fabricar y reparar."
+							"Spanish (Spain)" : "Un rollo de fibras duraderas que pueden usarse para fabricar y reparar.",
+							"Turkish" : "El sanatları ve onarım için kullanılabilen güçlü liflerden oluşan bir rulo."
     },
 	"GAMEPLAY_GlassShards" : {
 							 "English" : "Glass Shards",
-							"Spanish (Spain)" : "Trozos de cristal"
+							"Spanish (Spain)" : "Trozos de cristal",
+							"Turkish" : "Cam Parçaları"
 	},
 	"GAMEPLAY_GlassShardsDescription" : {
 							"English" : "A couple of glass bottles, one of them broken. Be careful with that.",
-							"Spanish (Spain)" : "Un par de botellas de cristal, una de ellas rota. Ten cuidado con eso."
+							"Spanish (Spain)" : "Un par de botellas de cristal, una de ellas rota. Ten cuidado con eso.",
+							"Turkish" : "Birkaç cam şişe, biri kırık. Dikkatli ol."
 	},
 	"GAMEPLAY_CeramicShards" : {
 							 "English" : "Ceramic Shards",
-							"Spanish (Spain)" : "Trozos de cerámica"
+							"Spanish (Spain)" : "Trozos de cerámica",
+							"Turkish" : "Seramik Parçalar"
 	},
 	"GAMEPLAY_CeramicShardsDescription" : {
 							"English" : "Broken pieces of hardened clay.",
-							"Spanish (Spain)" : "Pedazos rotos de arcilla endurecida."
+							"Spanish (Spain)" : "Pedazos rotos de arcilla endurecida.",
+							"Turkish" : "Sertleşmiş kilden kırık parçalar."
 	},
+	"GAMEPLAY_RecycledGlass" : {
+                            "English" : "Reclaimed Glass",
+							"Spanish (Spain)" : "Cristal Reciclado",
+							"Turkish" : "Geri Kazanılmış Cam"
+    },
+    "GAMEPLAY_RecycledGlassDescription" : {
+                            "English" : "A sheet of remelted glass shards.",
+							"Spanish (Spain)" : "Una lámina de fragmentos de cristal que se han vuelto a fundir.",
+							"Turkish" : "Eritilmiş cam parçalarından oluşan bir levha."
+    },
+	"GAMEPLAY_RecycledPlastic" : {
+                            "English" : "Processed Plastic",
+							"Spanish (Spain)" : "Plástico Procesado",
+							"Turkish" : "İşlenmiş Plastik"
+    },
+    "GAMEPLAY_RecycledPlasticDescription" : {
+                            "English" : "A sheet of recycled plastic waste.",
+							"Spanish (Spain)" : "Una lámina de desechos plásticos reciclados.",
+							"Turkish" : "Geri dönüştürülmüş plastik atık levhası."
+    },
 	"GAMEPLAY_HeapSingle": {
 							"English" : "heap.",
-							"Spanish (Spain)" : "puñado."
+							"Spanish (Spain)" : "puñado.",
+							"Turkish" : "yığın"
 	},
 	"GAMEPLAY_HeapMultiple" : {
 							"English" : "heaps.",
-							"Spanish (Spain)" : "puñados."
+							"Spanish (Spain)" : "puñados.",
+							"Turkish" : "yığınlar"
 	},	
 	"GAMEPLAY_SheetSingle" : {
 							"English" : "sheet",
-							"Spanish (Spain)" : "lámina"
+							"Spanish (Spain)" : "lámina",
+							"Turkish" : "levha"
 	},
 	"GAMEPLAY_SheetMultiple" : {
 							"English" : "sheets",
-							"Spanish (Spain)" : "láminas"
+							"Spanish (Spain)" : "láminas",
+							"Turkish" : "levhalar"
 	},
 	"GAMEPLAY_ChunkSingle": {
 							"English" : "chunk.",
-							"Spanish (Spain)" : "pedazo."
+							"Spanish (Spain)" : "pedazo.",
+							"Turkish" : "parça"
 	},
 	"GAMEPLAY_ChunkMultiple" : {
 							"English" : "chunks.",
-							"Spanish (Spain)" : "pedazos."
+							"Spanish (Spain)" : "pedazos.",
+							"Turkish" : "parçalar"
 	},	
 	"GAMEPLAY_BatterySingle" : {
 							"English" : "battery",
-							"Spanish (Spain)" : "batería"
+							"Spanish (Spain)" : "batería",
+							"Turkish" : "pil"
 	},
 	"GAMEPLAY_BatteryMultiple" : {
 							"English" : "batteries",
-							"Spanish (Spain)" : "baterías"
+							"Spanish (Spain)" : "baterías",
+							"Turkish" : "piller"
 	},
 	"GAMEPLAY_BoxSingle": {
 							"English" : "box.",
-							"Spanish (Spain)" : "caja."
+							"Spanish (Spain)" : "caja.",
+							"Turkish" : "kutu"
 	},
 	"GAMEPLAY_BoxMultiple" : {
 							"English" : "boxes.",
-							"Spanish (Spain)" : "cajas."
+							"Spanish (Spain)" : "cajas.",
+							"Turkish" : "kutular"
 	},
 	"GAMEPLAY_RollSingle": {
 							"English" : "roll.",
-							"Spanish (Spain)" : "rollo."
+							"Spanish (Spain)" : "rollo.",
+							"Turkish" : "rulo"
 	},
 	"GAMEPLAY_RollMultiple" : {
 							"English" : "rolls.",
-							"Spanish (Spain)" : "rollos."
+							"Spanish (Spain)" : "rollos.",
+							"Turkish" : "rulolar"
 	},
 	"GAMEPLAY_MTB_DismantleLabel" : {
 							"English" : "Dismantle",
-							"Spanish (Spain)" : "Desarmar"
+							"Spanish (Spain)" : "Desarmar",
+							"Turkish" : "Sök"
 	},
 	"GAMEPLAY_MTB_DismantleProgressBar": {
 							"English" : "Dismantling...",
-							"Spanish (Spain)" : "Desarmando..."
+							"Spanish (Spain)" : "Desarmando...",
+							"Turkish" : "Sökülüyor"
 	},
 	"GAMEPLAY_MTB_NoDismantle" : {
 							"English" : "You can't dismantle a gun without tools.",
-							"Spanish (Spain)" : "No puedes desarmar un arma sin herramientas."
+							"Spanish (Spain)" : "No puedes desarmar un arma sin herramientas.",
+							"Turkish" : "Aletler olmadan bir silahı sökemezsin."
 	},
 	"GAMEPLAY_MTB_ReplenishLabel" : {
 							"English" : "Replenish",
-							"Spanish (Spain)" : "Reponer"
+							"Spanish (Spain)" : "Reponer",
+							"Turkish" : "Yenile"
 	},
 	"GAMEPLAY_MTB_HighCondition": {
 							"English" : "This sewing kit still have enough string.",
-							"Spanish (Spain)" : "Este kit de costura aún tiene suficiente hilo."
+							"Spanish (Spain)" : "Este kit de costura aún tiene suficiente hilo.",
+							"Turkish" : "Bu dikiş setinde hâlâ yeterince ip var."
 	},
 	"GAMEPLAY_MTB_NoString" : {
 							"English" : "You don't have enough string.",
-							"Spanish (Spain)" : "No tienes suficiente hilo."
+							"Spanish (Spain)" : "No tienes suficiente hilo.",
+							"Turkish" : "Yeterince ipin yok."
 	}		
 }
