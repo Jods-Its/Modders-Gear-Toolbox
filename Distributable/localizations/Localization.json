@@ -42,7 +42,7 @@
 	"GAMEPLAY_TapeRoll" : {
 							"English" : "Tape Roll",
 							"Spanish (Spain)" : "Rollo de cinta",
-							"Turkish" : "Rulo Bant"
+							"Turkish" : "Bant"
 	},
 	"GAMEPLAY_TapeRollDescription" : {
 							"English" : "A roll of industrial-grade duct tape. Useful for patching holes and glue things together.",
@@ -67,7 +67,7 @@
 	"GAMEPLAY_ScrapPlasticDescription" : {
 							"English" : "A bunch of plastic waste. And people wondered why all of this happened.",
 							"Spanish (Spain)" : "Un puñado de desechos plásticos. Y la gente se preguntaba por qué todo esto ha pasado.",
-							"Turkish" : "Bir avuç plastik atık. Ve insanlar tüm bunların neden olduğunu merak ediyor."
+							"Turkish" : "Bir avuç plastik atık. İnsanlar tüm bunların neden olduğunu merak ediyor."
 	},
 	"GAMEPLAY_Flint" : {
                             "English" : "Flint",
@@ -77,7 +77,7 @@
     "GAMEPLAY_FlintDescription" : {
                             "English" : "A piece of dark quartz that produces sparks when hit.",
 							"Spanish (Spain)" : "Un trozo de cuarzo oscuro que produce chispas al ser golpeado.",
-							"Turkish" : "Vurulduğunda kıvılcım çıkaran koyu renkli bir kuvars parçası."
+							"Turkish" : "Bir yere vurulduğunda kıvılcım çıkaran koyu renkli bir kuvars parçası."
     },
 	"GAMEPLAY_Rock" : {
                             "English" : "Rock",
@@ -132,7 +132,7 @@
 	"GAMEPLAY_NutsNBoltsBox" : {
                             "English" : "Nuts and Bolts Box",
 							"Spanish (Spain)" : "Caja de tornillos y tuercas",
-							"Turkish" : "Somunlar ve Cıvatalar Kutusu"
+							"Turkish" : "Civata ve Somun Kutusu"
     },
     "GAMEPLAY_NutsNBoltsBoxDescription" : {
                             "English" : "A box of assorted metal fasteners.",
@@ -147,7 +147,7 @@
     "GAMEPLAY_StringBundleDescription" : {
                             "English" : "A roll of nylon fibres meant for sewing.",
 							"Spanish (Spain)" : "Un rollo de fibras de nylon pensadas para coser.",
-							"Turkish" : "Dikiş için kullanılan rulo naylon elyaf."
+							"Turkish" : "Dikiş için kullanılan naylon ip."
     },
 	"GAMEPLAY_StringDurable" : {
                             "English" : "Durable String",
@@ -157,7 +157,7 @@
     "GAMEPLAY_StringDurableDescription" : {
                             "English" : "A roll of strong fibres that can be used for craft and repair.",
 							"Spanish (Spain)" : "Un rollo de fibras duraderas que pueden usarse para fabricar y reparar.",
-							"Turkish" : "El sanatları ve onarım için kullanılabilen güçlü liflerden oluşan bir rulo."
+							"Turkish" : "El sanatları ve onarım için kullanılabilen güçlü liflerden oluşan bir ip."
     },
 	"GAMEPLAY_GlassShards" : {
 							 "English" : "Glass Shards",
@@ -277,7 +277,7 @@
 	"GAMEPLAY_MTB_ReplenishLabel" : {
 							"English" : "Replenish",
 							"Spanish (Spain)" : "Reponer",
-							"Turkish" : "Yenile"
+							"Turkish" : "Yeniden doldur"
 	},
 	"GAMEPLAY_MTB_HighCondition": {
 							"English" : "This sewing kit still have enough string.",
