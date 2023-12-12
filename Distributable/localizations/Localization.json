@@ -7,7 +7,7 @@
     "GAMEPLAY_ElectronicPartsDescription" : {
                             "English" : "A burned-out fuse and spare parts... might be useful.",
 							"Spanish (Spain)" : "Un fusible quemado y piezas sueltas... puede que sea útil.",
-							"Turkish" : "Yanmış bir sigorta ve yedek parçalar... faydalı olabilir."
+							"Turkish" : "Yanmış bir sigorta ve yedek parçalar... kullanışlı olabilir."
     },
 	"GAMEPLAY_GunParts" : {
                             "English" : "Gun Parts",
@@ -17,7 +17,7 @@
     "GAMEPLAY_GunPartsDescription" : {
                             "English" : "A box full of parts harvested from a gun.",
 							"Spanish (Spain)" : "Una caja llena de piezas extraidas de un arma.",
-							"Turkish" : "Bir kutu dolusu silahtan alınmış parçalar."
+							"Turkish" : "Bir kutu dolusu silahtan toplanmış parçalar."
     },
 	"GAMEPLAY_MetalBoxForge" : {
                             "English" : "Metal Box",
@@ -37,7 +37,7 @@
 	"GAMEPLAY_TarpSheetDescription" : {
 							"English" : "A big, sturdy piece of hemp fibers with metal rings attached.",
 							"Spanish (Spain)" : "Una pieza grande y resistente de fibras de cáñamo con anillos de metal unidos.",
-							"Turkish" : "Metal halkalar takılı büyük, sağlam bir kenevir lifi parçası."
+							"Turkish" : "Metal halkalara takılı büyük, sağlam bir kenevir lifi parçası."
 	},
 	"GAMEPLAY_TapeRoll" : {
 							"English" : "Tape Roll",
@@ -47,7 +47,7 @@
 	"GAMEPLAY_TapeRollDescription" : {
 							"English" : "A roll of industrial-grade duct tape. Useful for patching holes and glue things together.",
 							"Spanish (Spain)" : "Un rollo de cinta adhesiva industrial. Útil para tapar agujeros y pegar cosas.",
-							"Turkish" : "Endüstriyel sınıf bir koli bandı. Delikleri yamamak ve eşyaları birbirine yapıştırmak için kullanışlıdır."
+							"Turkish" : "Endüstriyel sınıf bir koli bandı. Delikleri yamalamak ve eşyaları birbirine yapıştırmak için kullanışlı."
 	},
 	"GAMEPLAY_CrumpledPaper" : {
 							 "English" : "Scrap Paper",
@@ -67,7 +67,7 @@
 	"GAMEPLAY_ScrapPlasticDescription" : {
 							"English" : "A bunch of plastic waste. And people wondered why all of this happened.",
 							"Spanish (Spain)" : "Un puñado de desechos plásticos. Y la gente se preguntaba por qué todo esto ha pasado.",
-							"Turkish" : "Bir avuç plastik atık. İnsanlar tüm bunların neden olduğunu merak ediyor."
+							"Turkish" : "Bir avuç plastik atık. Üstüne bir de insanlar tüm bunların neden olduğunu merak ediyor."
 	},
 	"GAMEPLAY_Flint" : {
                             "English" : "Flint",
@@ -82,12 +82,12 @@
 	"GAMEPLAY_Rock" : {
                             "English" : "Rock",
 							"Spanish (Spain)" : "Roca",
-							"Turkish" : "Kaya"
+							"Turkish" : "Taş"
     },
     "GAMEPLAY_RockDescription" : {
                             "English" : "Just a big, plain rock.",
 							"Spanish (Spain)" : "Es solo una roca grande y normal.",
-							"Turkish" : "Sadece büyük, düz bir kaya."
+							"Turkish" : "Sadece büyük, düz bir taş."
     },
 	"GAMEPLAY_Bones" : {
                             "English" : "Bone Fragments",
@@ -97,7 +97,7 @@
     "GAMEPLAY_BonesDescription" : {
                             "English" : "Broken bones harvested from an animal.",
 							"Spanish (Spain)" : "Huesos rotos obtenidso de un animal.",
-							"Turkish" : "Hayvandan elde edilen kırık kemikler."
+							"Turkish" : "Bir hayvandan elde edilmiş kırık kemikler."
     },
 	"GAMEPLAY_Battery9V" : {
                             "English" : "Battery",
@@ -107,7 +107,7 @@
     "GAMEPLAY_Battery9VDescription" : {
                             "English" : "A 9V battery, intended for industrial use. This little thing is probably the last place you will find electricity.",
 							"Spanish (Spain)" : "Una batería de 9V, destinada al uso industrial. Probablemente el único lugar donde encontrarás energía.",
-							"Turkish" : "Endüstriyel kullanım için tasarlanmış 9V pil. Bu küçük şey muhtemelen elektrik bulabileceğiniz son yerdir."
+							"Turkish" : "Endüstriyel kullanım için tasarlanmış 9V pil. Bu küçük şey muhtemelen elektrik bulabileceğin son yer."
     },
 	"GAMEPLAY_RifleBroken" : {
                             "English" : "Broken Hunting Rifle",
@@ -117,7 +117,7 @@
     "GAMEPLAY_RifleBrokenDescription" : {
                             "English" : "An old .303 calibre bolt-action hunting rifle, broken beyond repair. Whoever owned this had a terrible end.",
 							"Spanish (Spain)" : "Un viejo rifle de caza del calibre .303, sin posibilidad de reparación. A quien sea que perteneció esto tuvo un fatídico final.",
-							"Turkish" : "Eski bir .303 kalibre bolt-action av tüfeği, tamir edilemeyecek şekilde kırılmış. Bunun sahibi her kimse sonu çok kötü olmuş."
+							"Turkish" : "Eski bir .303 kalibre bolt-action av tüfeği, tamir edilemeyecek şekilde kırılmış. Bunun sahibi her kimse sonu kötü bitmiş."
     },
 	"GAMEPLAY_NutsNBolts" : {
                             "English" : "Nuts and Bolts",
@@ -137,7 +137,7 @@
     "GAMEPLAY_NutsNBoltsBoxDescription" : {
                             "English" : "A box of assorted metal fasteners.",
 							"Spanish (Spain)" : "Una caja de aseguradores metálicos varios.",
-							"Turkish" : "Bir kutu çeşitli metal bağlantı elemanı."
+							"Turkish" : "Bir kutu dolusu çeşitli metal bağlantı elemanları."
     },
 	"GAMEPLAY_StringBundle" : {
                             "English" : "String Bundle",
