@@ -5,7 +5,7 @@
 							"Russian" : "Детали электроники",
 							"French (France)": "Pièces d'électronique",
 							"Turkish" : "Elektronik Parçalar",
-							"Italian" : "Pezzi Elettroniche"
+							"Italian" : "Parti Elettroniche"
     },
     "GAMEPLAY_ElectronicPartsDescription" : {
                             "English" : "A burned-out fuse and spare parts... might be useful.",
@@ -37,7 +37,7 @@
 							"Russian" : "Металлический ящик",
 							"French (France)": "Boïte en métal",
 							"Turkish" : "Metal Kutu",
-							"Italian" : "Scatola in Metallo"
+							"Italian" : "Scatola di Metallo"
     },
     "GAMEPLAY_MetalBoxForgeDescription" : {
                             "English" : "A big metal box that can be used for many things.",
@@ -45,7 +45,7 @@
 							"Russian" : "Большой металлический ящик пригодный для разнообразного применения.",
 							"French (France)": "Une boîte en métal qui peux être utilisée pour diverses choses.",
 							"Turkish" : "Birçok şey için kullanılabilen büyük bir metal kutu.",
-	    					"Italian" : "Una grande scatola in metallo che può essere usata per molte cose."
+	    					"Italian" : "Una grande scatola di metallo che può essere usata per molte cose."
     },
 	"GAMEPLAY_TarpSheet" : {
 							"English" : "Tarp Sheet",
@@ -77,7 +77,7 @@
 							"Russian" : "Рулон промышленного скотча. Полезен при заделке дыр и изготовлении.",
 							"French (France)": "Un rouleau de scotch de qualité industrielle. Pratique pour réparer des trous et rattacher les choses ensemble.",
 							"Turkish" : "Endüstriyel sınıf bir koli bandı. Delikleri yamalamak ve eşyaları birbirine yapıştırmak için kullanışlı.",
-							"Italian" : "Un rotolo di nastro adesivo industriale. Utile per rattoppare buchi e incollare roba insieme."
+							"Italian" : "Un rotolo di nastro adesivo industriale. Utile per rattoppare buchi e incollare insieme la roba."
 	},
 	"GAMEPLAY_CrumpledPaper" : {
 							 "English" : "Scrap Paper",
@@ -109,7 +109,7 @@
 							"Russian" : "Куча пластивого мусора. И после этого люди спрашивают, почему это всё произошло.",
 							"French (France)": "Des rebus de plastique. Et les gens se demandent pourquoi tout ça est arrivé.",
 							"Turkish" : "Bir avuç plastik atık. Üstüne bir de insanlar tüm bunların neden olduğunu merak ediyor.",
-							"Italian" : "Un mucchio di rifiuti di plastica. E le persone si chiedono perché tutto questo è accaduto."
+							"Italian" : "Un mucchio di rifiuti di plastica. E la gente si chiede perché tutto questo è accaduto."
 	},
 	"GAMEPLAY_Flint" : {
                             "English" : "Flint",
@@ -189,7 +189,7 @@
 							"Russian" : "Старая винтовка .303 калибра со скользящим затвором, совершенно не ремонтопригодна. Кем бы ни был её прошлый владелец, это был суровый конец.",
 							"French (France)": "Un vieux fusil de chasse à verrou  calibre .303 irréparable. Le propriétaire, qui qu'il soit, a eu une fin terrible.",
 							"Turkish" : "Eski bir .303 kalibre bolt-action av tüfeği, tamir edilemeyecek şekilde kırılmış. Bunun sahibi her kimse sonu kötü bitmiş.",
-	    					"Italian" : "Un vecchio fucile da caccia a ripetizione calibro .303, rotto irreparabilmente. Chiunque possedeva questa ha avuto una brutta fine."
+	    					"Italian" : "Un vecchio fucile da caccia a ripetizione calibro .303, irreparabilmente rotto. Chiunque possedeva questa ha avuto una brutta fine."
     },
 	"GAMEPLAY_NutsNBolts" : {
                             "English" : "Nuts and Bolts",
@@ -205,7 +205,7 @@
 							"Russian" : "Несколько элементов различного крепежа.",
 							"French (France)": "Des attaches en métal assorties.",
 							"Turkish" : "Bir sürü metal bağlantı elemanı.",
-	    					"Italian" : "Un mucchio di elementi di fissaggio in metallo assortiti."
+	    					"Italian" : "Un mucchio di elementi di fissaggio in metallo assortito."
     },
 	"GAMEPLAY_NutsNBoltsBox" : {
                             "English" : "Nuts and Bolts Box",
@@ -221,7 +221,7 @@
 							"Russian" : "Целая коробка различного крепежа",
 							"French (France)": "Une boîte d'attaches en métal assorties.",
 							"Turkish" : "Bir kutu dolusu çeşitli metal bağlantı elemanları.",
-	    					"Italian" : "Una scatola di elementi di fissaggio in metallo assortiti."
+	    					"Italian" : "Una scatola di elementi di fissaggio in metallo assortito."
     },
 	"GAMEPLAY_StringBundle" : {
                             "English" : "String Bundle",
@@ -237,7 +237,7 @@
 							"Russian" : "Пучок нейлоновых ниток для шитья.",
 							"French (France)": "Un rouleau de ficelle de nylon pour la couture.",
 							"Turkish" : "Dikiş için kullanılan naylon ip.",
-							"Italian" : "Un rotolo di fibre nylon usate per cucire."
+							"Italian" : "Un rotolo di fibre nylon usato per cucire."
     },
 	"GAMEPLAY_StringDurable" : {
                             "English" : "Durable String",
@@ -253,7 +253,7 @@
 							"Russian" : "Рулон прочного троса который может пригодиться при изготовлении и ремонте вещей.",
 							"French (France)": "Un rouleau de ficelle résistante qui peux être utilisé pour la fabrication et la réparation.",
 							"Turkish" : "El sanatları ve onarım için kullanılabilen güçlü liflerden oluşan bir ip.",
-	    					"Italian" : "Un rotolo di fibre resisteni che possono essere usate per creare e riparare."
+	    					"Italian" : "Un rotolo di fibre resisteni che può essere usato per creare e riparare."
     },
 	"GAMEPLAY_GlassShards" : {
 							 "English" : "Glass Shards",
