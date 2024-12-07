@@ -3,6 +3,7 @@ using HarmonyLib;
 using UnityEngine;
 using Il2CppSteamworks;
 using MelonLoader;
+using Il2CppTLD.IntBackedUnit;
 
 namespace GearToolbox
 {
@@ -78,38 +79,51 @@ namespace GearToolbox
                 }
             }
         }
-        [HarmonyPatch(typeof(Panel_BodyHarvest), "TransferMeatFromCarcassToInventory")]
+        [HarmonyPatch(typeof(Panel_BodyHarvest), nameof(Panel_BodyHarvest.TransferGearFromCarcassToInventoryByWeight))]
         internal class HarvestBones
         {
-            private static void Postfix(Panel_BodyHarvest __instance)
+            private static void Postfix(Panel_BodyHarvest __instance, GameObject prefab, ItemWeight weightToAdd)
             {
-                GearItem thisMeat = __instance.m_BodyHarvest.m_MeatPrefab.GetComponent<GearItem>();
+                GearItem thisGearItem = prefab.GetComponent<GearItem>();
+
                 int tries = 0;
                 int bones = 0;
                 bool msgAdded = false;
 
-                if (thisMeat != null && Settings.instance.noBones == false)
+				if (!thisGearItem.name.ToLowerInvariant().Contains("meat"))
+				{
+					return;
+				}
+
+				if (weightToAdd.m_Units <= 0f)
+				{
+					return;
+				}
+
+				if (thisGearItem != null && Settings.instance.noBones == false)
                 {
-                    if (thisMeat.name.ToLowerInvariant().Contains("ptarmigan") || thisMeat.name.ToLowerInvariant().Contains("rabbit") || thisMeat.name.ToLowerInvariant().Contains("bird"))
+                    if (thisGearItem.name.ToLowerInvariant().Contains("ptarmigan") || thisGearItem.name.ToLowerInvariant().Contains("rabbit") || thisGearItem.name.ToLowerInvariant().Contains("bird"))
                     {
                         tries = 3;
                     }
-                    else if (thisMeat.name.ToLowerInvariant().Contains("wolf") || thisMeat.name.ToLowerInvariant().Contains("deer") || thisMeat.name.ToLowerInvariant().Contains("cougar"))
+                    else if (thisGearItem.name.ToLowerInvariant().Contains("wolf") || thisGearItem.name.ToLowerInvariant().Contains("deer") || thisGearItem.name.ToLowerInvariant().Contains("cougar"))
                     {
                         tries = 12;
                     }
-                    else if (thisMeat.name.ToLowerInvariant().Contains("bear") || thisMeat.name.ToLowerInvariant().Contains("moose") || thisMeat.name.ToLowerInvariant().Contains("orca"))
+                    else if (thisGearItem.name.ToLowerInvariant().Contains("bear") || thisGearItem.name.ToLowerInvariant().Contains("moose") || thisGearItem.name.ToLowerInvariant().Contains("orca"))
                     {
                         tries = 26;
                     }
-                    for (int i = 0; i < tries; i++)
+
+					for (int i = 0; i < tries; i++)
                     {
                         if (Utils.RollChance(50f))
                         {
                             bones++;
                         }
                     }
-                    for (int  j = 0; j < bones; j++)
+
+					for (int  j = 0; j < bones; j++)
                     {
                         GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(ToolboxUtils.bones, 1, 1f, PlayerManager.InventoryInstantiateFlags.None);
                         if (!msgAdded)
