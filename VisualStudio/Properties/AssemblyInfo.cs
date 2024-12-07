@@ -4,7 +4,7 @@ using System.Reflection;
 //This is a C# comment. Comments have no impact on compilation.
 
 [assembly: AssemblyTitle(BuildInfo.ModName)]
-[assembly: AssemblyCopyright($"Created by ModAuthor")]
+[assembly: AssemblyCopyright($"Created by {BuildInfo.ModAuthor}")]
 
 [assembly: AssemblyVersion(BuildInfo.ModVersion)]
 [assembly: AssemblyFileVersion(BuildInfo.ModVersion)]
@@ -18,5 +18,5 @@ internal static class BuildInfo
 	internal const string ModName = "Modders' Gear Toolbox";
 	internal const string ModAuthor = "Jods-Its";
 
-	internal const string ModVersion = "1.0.3";
+	internal const string ModVersion = "1.0.4";
 }
