@@ -3,7 +3,7 @@
                                 "DisplayNameLocalizationId" : "GAMEPLAY_Bones",
                                 "DescriptionLocalizatonId" : "GAMEPLAY_BonesDescription",
                                 "InventoryActionLocalizationId" : "",
-                                "WeightKG": 0.1,
+                                "WeightKG": 0.05,
                                 "DaysToDecay" : 0,
                                 "MaxHP" : 100,
                                 "InitialCondition" : "Perfect",
