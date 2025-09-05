@@ -90,17 +90,17 @@ namespace GearToolbox
                 int bones = 0;
                 bool msgAdded = false;
 
-				if (!thisGearItem.name.ToLowerInvariant().Contains("meat"))
-				{
-					return;
-				}
+                if (!thisGearItem.name.ToLowerInvariant().Contains("meat"))
+                {
+                    return;
+                }
 
-				if (weightToAdd.m_Units <= 0f)
-				{
-					return;
-				}
+                if (weightToAdd.m_Units <= 0f)
+                {
+                    return;
+                }
 
-				if (thisGearItem != null && Settings.instance.noBones == false)
+                if (thisGearItem != null && Settings.instance.noBones == false)
                 {
                     if (thisGearItem.name.ToLowerInvariant().Contains("ptarmigan") || thisGearItem.name.ToLowerInvariant().Contains("rabbit") || thisGearItem.name.ToLowerInvariant().Contains("bird"))
                     {
@@ -115,7 +115,7 @@ namespace GearToolbox
                         tries = 26;
                     }
 
-					for (int i = 0; i < tries; i++)
+                    for (int i = 0; i < tries; i++)
                     {
                         if (Utils.RollChance(50f))
                         {
@@ -123,7 +123,7 @@ namespace GearToolbox
                         }
                     }
 
-					for (int  j = 0; j < bones; j++)
+                    for (int j = 0; j < bones; j++)
                     {
                         GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(ToolboxUtils.bones, 1, 1f, PlayerManager.InventoryInstantiateFlags.None);
                         if (!msgAdded)
@@ -133,62 +133,63 @@ namespace GearToolbox
                             GearMessage.AddMessage(ToolboxUtils.bones.name, Localization.Get("GAMEPLAY_Harvested"), message, false, true);
                         }
                     }
-                  
+
                 }
             }
         }
-       /* [HarmonyPatch(typeof(Panel_BodyHarvest), "TransferMeatFromCarcassToInventory")]
-        internal class HarvestBones
-        {
-            private static void Postfix(Panel_BodyHarvest __instance)
-            {
-                GearItem thisMeat = __instance.m_BodyHarvest.m_MeatPrefab.GetComponent<GearItem>();
-                float harvestAmount = 0;
-                int bones = 0;
-                bool msgAdded = false;
-                if (Settings.instance.noBones == false)
-                {
-                    if (thisMeat.name.ToLowerInvariant().Contains("ptarmigan") || thisMeat.name.ToLowerInvariant().Contains("rabbit") || thisMeat.name.ToLowerInvariant().Contains("bird"))
-                    {
-                        harvestAmount = 5f;
-                        if (Utils.RollChance(70f))
-                        {
-                            bones = 1;
-                        }                    
-                    }
-                    else if (thisMeat.name.ToLowerInvariant().Contains("wolf") || thisMeat.name.ToLowerInvariant().Contains("deer"))
-                    {
-                        harvestAmount = 15f;
-                        if (Utils.RollChance(50f))
-                        {
-                            bones = 1;
-                        }
-                    }
-                    else if (thisMeat.name.ToLowerInvariant().Contains("bear") || thisMeat.name.ToLowerInvariant().Contains("moose") || thisMeat.name.ToLowerInvariant().Contains("orca"))
-                    {
-                        harvestAmount = 30f;
-                        if (Utils.RollChance(30f))
-                        {
-                            bones = 1;
-                        }
-                    }
+        /* [HarmonyPatch(typeof(Panel_BodyHarvest), "TransferMeatFromCarcassToInventory")]
+         internal class HarvestBones
+         {
+             private static void Postfix(Panel_BodyHarvest __instance)
+             {
+                 GearItem thisMeat = __instance.m_BodyHarvest.m_MeatPrefab.GetComponent<GearItem>();
+                 float harvestAmount = 0;
+                 int bones = 0;
+                 bool msgAdded = false;
+                 if (Settings.instance.noBones == false)
+                 {
+                     if (thisMeat.name.ToLowerInvariant().Contains("ptarmigan") || thisMeat.name.ToLowerInvariant().Contains("rabbit") || thisMeat.name.ToLowerInvariant().Contains("bird"))
+                     {
+                         harvestAmount = 5f;
+                         if (Utils.RollChance(70f))
+                         {
+                             bones = 1;
+                         }                    
+                     }
+                     else if (thisMeat.name.ToLowerInvariant().Contains("wolf") || thisMeat.name.ToLowerInvariant().Contains("deer"))
+                     {
+                         harvestAmount = 15f;
+                         if (Utils.RollChance(50f))
+                         {
+                             bones = 1;
+                         }
+                     }
+                     else if (thisMeat.name.ToLowerInvariant().Contains("bear") || thisMeat.name.ToLowerInvariant().Contains("moose") || thisMeat.name.ToLowerInvariant().Contains("orca"))
+                     {
+                         harvestAmount = 30f;
+                         if (Utils.RollChance(30f))
+                         {
+                             bones = 1;
+                         }
+                     }
 
-                    for (int i = 1; i <= harvestAmount; i++)
-                    {
-                        for (int j = 1; j <= bones; j++)
-                        {
-                            GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(ToolboxUtils.bones, 1, 1f, PlayerManager.InventoryInstantiateFlags.None);
-                            if (!msgAdded)
-                            {
-                                msgAdded = true;
-                                string message = string.Concat(new object[] { ToolboxUtils.bones.DisplayName, " (", bones, ")" });
-                                GearMessage.AddMessage(ToolboxUtils.bones.name, Localization.Get("GAMEPLAY_Harvested"), message, false, true);
-                            }
-                        }
-                    }
-                }
-            }
-        }*/
+                     for (int i = 1; i <= harvestAmount; i++)
+                     {
+                         for (int j = 1; j <= bones; j++)
+                         {
+                             GameManager.GetPlayerManagerComponent().InstantiateItemInPlayerInventory(ToolboxUtils.bones, 1, 1f, PlayerManager.InventoryInstantiateFlags.None);
+                             if (!msgAdded)
+                             {
+                                 msgAdded = true;
+                                 string message = string.Concat(new object[] { ToolboxUtils.bones.DisplayName, " (", bones, ")" });
+                                 GearMessage.AddMessage(ToolboxUtils.bones.name, Localization.Get("GAMEPLAY_Harvested"), message, false, true);
+                             }
+                         }
+                     }
+                 }
+             }
+         }*/
     }
 }
+
 

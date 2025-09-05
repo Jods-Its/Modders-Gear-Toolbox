@@ -4,7 +4,7 @@ using System.Reflection;
 //This is a C# comment. Comments have no impact on compilation.
 
 [assembly: AssemblyTitle(BuildInfo.ModName)]
-[assembly: AssemblyCopyright($"Created by {BuildInfo.ModAuthor}")]
+[assembly: AssemblyCopyright($"Created by ModAuthor")]
 
 [assembly: AssemblyVersion(BuildInfo.ModVersion)]
 [assembly: AssemblyFileVersion(BuildInfo.ModVersion)]

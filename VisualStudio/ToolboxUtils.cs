@@ -16,6 +16,9 @@ namespace GearToolbox
         public static GearItem tools1 = Addressables.LoadAssetAsync<GameObject>("GEAR_SimpleTools").WaitForCompletion().GetComponent<GearItem>();
         public static GearItem tools2 = Addressables.LoadAssetAsync<GameObject>("GEAR_HighQualityTools").WaitForCompletion().GetComponent<GearItem>();
         public static GearItem bundleString = Addressables.LoadAssetAsync<GameObject>("GEAR_StringBundle").WaitForCompletion().GetComponent<GearItem>();
+        public static string tools1Name = "GEAR_SimpleTools";
+        public static string tools2Name = "GEAR_HighQualityTools";
+        public static string bundleStringName = "GEAR_StringBundle";
 
         public static void LaunchGearToolbox()
         {
