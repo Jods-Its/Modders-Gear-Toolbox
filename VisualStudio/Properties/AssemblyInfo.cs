@@ -18,5 +18,5 @@ internal static class BuildInfo
 	internal const string ModName = "Modders' Gear Toolbox";
 	internal const string ModAuthor = "Jods-Its";
 
-	internal const string ModVersion = "1.0.3";
+	internal const string ModVersion = "1.0.4";
 }

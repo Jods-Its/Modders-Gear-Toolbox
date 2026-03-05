@@ -62,7 +62,7 @@ namespace GearToolbox
 
             if (thisGearItem == null) return;
 
-            if (GameManager.GetInventoryComponent().GearInInventory(ToolboxUtils.tools1, 1) || GameManager.GetInventoryComponent().GearInInventory(ToolboxUtils.tools2, 1))
+            if (GameManager.GetInventoryComponent().GearInInventory(ToolboxUtils.tools1Name, 1) || GameManager.GetInventoryComponent().GearInInventory(ToolboxUtils.tools2Name, 1))
             {
                 GameAudioManager.PlayGuiConfirm();
                 InterfaceManager.GetPanel<Panel_GenericProgressBar>().Launch(Localization.Get("GAMEPLAY_MTB_DismantleProgressBar"), 5f, 0f, 0f,
@@ -103,7 +103,7 @@ namespace GearToolbox
                 GameAudioManager.PlayGUIError();
                 return;
             }
-            if (GameManager.GetInventoryComponent().GearInInventory(ToolboxUtils.bundleString, 1))
+            if (GameManager.GetInventoryComponent().GearInInventory(ToolboxUtils.bundleStringName, 1))
             {
                 GameAudioManager.PlayGuiConfirm();
                 thisGearItem.m_CurrentHP = thisGearItem.m_CurrentHP + 25;

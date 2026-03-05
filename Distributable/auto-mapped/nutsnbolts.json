@@ -3,7 +3,7 @@
                                 "DisplayNameLocalizationId" : "GAMEPLAY_NutsNBolts",
                                 "DescriptionLocalizatonId" : "GAMEPLAY_NutsNBoltsDescription",
                                 "InventoryActionLocalizationId" : "",
-                                "WeightKG": 0.05,
+                                "WeightKG": 0.1,
                                 "DaysToDecay" : 0,
                                 "MaxHP" : 100,
                                 "InitialCondition" : "Perfect",
