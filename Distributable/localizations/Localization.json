@@ -5,7 +5,8 @@
 							"Russian" : "Детали электроники",
 							"French (France)": "Pièces d'électronique",
 							"Turkish" : "Elektronik Parçalar",
-							"Italian" : "Pezzi Elettroniche"
+							"Italian" : "Pezzi Elettroniche",
+							"Japanese" : "電子部品"
     },
     "GAMEPLAY_ElectronicPartsDescription" : {
                             "English" : "A burned-out fuse and spare parts... might be useful.",
@@ -13,7 +14,8 @@
 							"Russian" : "Сгоревший предохранитель и запасные детали... могут пригодиться.",
 							"French (France)": "Un fusible grillé et d'autres pièces.... ça pourrais servir.",
 							"Turkish" : "Yanmış bir sigorta ve yedek parçalar... kullanışlı olabilir.",
-	    					"Italian" : "Un fusibile bruciato e parti di ricambio...potrebbe essere utile."
+	    					"Italian" : "Un fusibile bruciato e parti di ricambio...potrebbe essere utile.",
+							"Japanese" : "焼き切れたヒューズと予備の部品……何かの役に立つかもしれない。"
     },
 	"GAMEPLAY_GunParts" : {
                             "English" : "Gun Parts",
@@ -21,7 +23,8 @@
 							"Russian" : "Оружейные детали",
 							"French (France)": "Pièces pour armes à feu",
 							"Turkish" : "Silah parçaları",
-	    					"Italian" : "Pezzi d'Arma da Fuoco"
+	    					"Italian" : "Pezzi d'Arma da Fuoco",
+							"Japanese" : "銃の部品"
     },
     "GAMEPLAY_GunPartsDescription" : {
                             "English" : "A box full of parts harvested from a gun.",
@@ -29,7 +32,8 @@
 							"Russian" : "Коробка запчастей снятых с оружия.",
 							"French (France)": "Une boîte pleine de pièces récoltées depuis une arme à feu.",
 							"Turkish" : "Bir kutu dolusu silahtan toplanmış parçalar.",
-	    					"Italian" : "Una scatola piena di pezzi raccolti da un'arma da fuoco."
+	    					"Italian" : "Una scatola piena di pezzi raccolti da un'arma da fuoco.",
+							"Japanese" : "銃を解体した際に入手できた部品が詰まった箱。"
     },
 	"GAMEPLAY_MetalBoxForge" : {
                             "English" : "Metal Box",
@@ -37,7 +41,8 @@
 							"Russian" : "Металлический ящик",
 							"French (France)": "Boïte en métal",
 							"Turkish" : "Metal Kutu",
-							"Italian" : "Scatola in Metallo"
+							"Italian" : "Scatola in Metallo",
+							"Japanese" : "金属製の箱"
     },
     "GAMEPLAY_MetalBoxForgeDescription" : {
                             "English" : "A big metal box that can be used for many things.",
@@ -45,7 +50,8 @@
 							"Russian" : "Большой металлический ящик пригодный для разнообразного применения.",
 							"French (France)": "Une boîte en métal qui peux être utilisée pour diverses choses.",
 							"Turkish" : "Birçok şey için kullanılabilen büyük bir metal kutu.",
-	    					"Italian" : "Una grande scatola in metallo che può essere usata per molte cose."
+	    					"Italian" : "Una grande scatola in metallo che può essere usata per molte cose.",
+							"Japanese" : "様々な用途に使える大きな金属製の箱。"
     },
 	"GAMEPLAY_TarpSheet" : {
 							"English" : "Tarp Sheet",
@@ -53,7 +59,8 @@
 							"Russian" : "Лист брезента",
 							"French (France)": "Bâche en toile",
 							"Turkish" : "Muşamba",
-							"Italian" : "Telo"
+							"Italian" : "Telo",
+							"Japanese" : "タープシート"
 	},
 	"GAMEPLAY_TarpSheetDescription" : {
 							"English" : "A big, sturdy piece of hemp fibers with metal rings attached.",
@@ -61,7 +68,8 @@
 							"Russian" : "Большой и прочный кусок брезента с металлическими кольцами.",
 							"French (France)": "Un grand morceau de tissu résistant fabriqué avec du chanvre et comprenant des attaches métalliques.",
 							"Turkish" : "Metal halkalara takılı büyük, sağlam bir kenevir lifi parçası.",
-							"Italian" : "Un grande e robusto pezzo di fibre di canapa con anelli di metallo attaccati."
+							"Italian" : "Un grande e robusto pezzo di fibre di canapa con anelli di metallo attaccati.",
+							"Japanese" : "金属製のリングが付けられた大きくて丈夫な麻布。"
 	},
 	"GAMEPLAY_TapeRoll" : {
 							"English" : "Tape Roll",
@@ -69,7 +77,8 @@
 							"Russian" : "Клейкая лента",
 							"French (France)": "Rouleau de scotch",
 							"Turkish" : "Bant",
-							"Italian" : "Nastro Adesivo"
+							"Italian" : "Nastro Adesivo",
+							"Japanese" : "粘着テープのロール"
 	},
 	"GAMEPLAY_TapeRollDescription" : {
 							"English" : "A roll of industrial-grade duct tape. Useful for patching holes and glue things together.",
@@ -77,7 +86,8 @@
 							"Russian" : "Рулон промышленного скотча. Полезен при заделке дыр и изготовлении.",
 							"French (France)": "Un rouleau de scotch de qualité industrielle. Pratique pour réparer des trous et rattacher les choses ensemble.",
 							"Turkish" : "Endüstriyel sınıf bir koli bandı. Delikleri yamalamak ve eşyaları birbirine yapıştırmak için kullanışlı.",
-							"Italian" : "Un rotolo di nastro adesivo industriale. Utile per rattoppare buchi e incollare roba insieme."
+							"Italian" : "Un rotolo di nastro adesivo industriale. Utile per rattoppare buchi e incollare roba insieme.",
+							"Japanese" : "工業グレードのダクトテープ。穴をふさいだり物をくっつけるのに役立つ。"
 	},
 	"GAMEPLAY_CrumpledPaper" : {
 							 "English" : "Scrap Paper",
@@ -85,7 +95,8 @@
 							"Russian" : "Макулатура",
 							"French (France)": "Déchets de papier",
 							"Turkish" : "Kağıt parçası",
-							"Italian" : "Carta Stracciata"
+							"Italian" : "Carta Stracciata",
+							"Japanese" : "紙くず"
 	},
 	"GAMEPLAY_CrumpledPaperDescription" : {
 							"English" : "It's just paper. You could burn it.",
@@ -93,7 +104,8 @@
 							"Russian" : "Это просто бумага. Можно её сжечь.",
 							"French (France)": "Juste du papier, vous pourriez le brûler.",
 							"Turkish" : "Sadece kağıt. Yakabilirsin.",
-							"Italian" : "È solo carta. Puoi bruciarla."
+							"Italian" : "È solo carta. Puoi bruciarla.",
+							"Japanese" : "ただの紙。燃やせる。"
 	},
 	"GAMEPLAY_ScrapPlastic" : {
 							 "English" : "Plastic Waste",
@@ -101,7 +113,8 @@
 							"Russian" : "Пластиковый мусор",
 							"French (France)": "Déchets de plastique",
 							"Turkish" : "Plastik Atıklar",
-							"Italian" : "Rifiuti di Plastica"
+							"Italian" : "Rifiuti di Plastica",
+							"Japanese" : "プラスチックごみ"
 	},
 	"GAMEPLAY_ScrapPlasticDescription" : {
 							"English" : "A bunch of plastic waste. And people wondered why all of this happened.",
@@ -109,7 +122,8 @@
 							"Russian" : "Куча пластивого мусора. И после этого люди спрашивают, почему это всё произошло.",
 							"French (France)": "Des rebus de plastique. Et les gens se demandent pourquoi tout ça est arrivé.",
 							"Turkish" : "Bir avuç plastik atık. Üstüne bir de insanlar tüm bunların neden olduğunu merak ediyor.",
-							"Italian" : "Un mucchio di rifiuti di plastica. E le persone si chiedono perché tutto questo è accaduto."
+							"Italian" : "Un mucchio di rifiuti di plastica. E le persone si chiedono perché tutto questo è accaduto.",
+							"Japanese" : "プラスチックごみの山。そして人々は、どうしてこうなったのだといぶかしんだ。"
 	},
 	"GAMEPLAY_Flint" : {
                             "English" : "Flint",
@@ -117,7 +131,8 @@
 							"Russian" : "Кремень",
 							"French (France)": "Silex",
 							"Turkish" : "Çakmaktaşı",
-							"Italian" : "Pietra Focaia"
+							"Italian" : "Pietra Focaia",
+							"Japanese" : "火打ち石"
     },
     "GAMEPLAY_FlintDescription" : {
                             "English" : "A piece of dark quartz that produces sparks when hit.",
@@ -125,7 +140,8 @@
 							"Russian" : "Кусочек тёмного кварца который даёт искры при ударе.",
 							"French (France)": "Un morceau de silex qui produit des étincelles quand frappé.",
 							"Turkish" : "Bir yere vurulduğunda kıvılcım çıkaran koyu renkli bir kuvars parçası.",
-	    					"Italian" : "Un pezzo di quarzo nero che produce scintille quando viene colpito."
+	    					"Italian" : "Un pezzo di quarzo nero che produce scintille quando viene colpito.",
+							"Japanese" : "暗い色をした水晶のかけら、ぶつけると火花が出る。"
     },
 	"GAMEPLAY_Rock" : {
                             "English" : "Rock",
@@ -133,7 +149,8 @@
 							"Russian" : "Камень",
 							"French (France)": "Pierre",
 							"Turkish" : "Taş",
-							"Italian" : "Roccia"
+							"Italian" : "Roccia",
+							"Japanese" : "岩"
     },
     "GAMEPLAY_RockDescription" : {
                             "English" : "Just a big, plain rock.",
@@ -141,7 +158,8 @@
 							"Russian" : "Просто большой камень.",
 							"French (France)": "Juste une grosse pierre.",
 							"Turkish" : "Sadece büyük, düz bir taş.",
-	    					"Italian" : "È solo una grande, semplice roccia."
+	    					"Italian" : "È solo una grande, semplice roccia.",
+							"Japanese" : "ただの大きな、何の変哲もない岩。"
     },
 	"GAMEPLAY_Bones" : {
                             "English" : "Bone Fragments",
@@ -149,7 +167,8 @@
 							"Russian" : "Фрагменты костей",
 							"French (France)": "Fragments d'os",
 							"Turkish" : "Kemik Parçaları",
-							"Italian" : "Frammenti d'Ossa"
+							"Italian" : "Frammenti d'Ossa",
+							"Japanese" : "骨片"
     },
     "GAMEPLAY_BonesDescription" : {
                             "English" : "Broken bones harvested from an animal.",
@@ -157,7 +176,8 @@
 							"Russian" : "Сломанные кости из туши животного.",
 							"French (France)": "Fragments d'os d'animaux",
 							"Turkish" : "Bir hayvandan elde edilmiş kırık kemikler.",
-	    					"Italian" : "Ossa rotte raccolte da un animale."
+	    					"Italian" : "Ossa rotte raccolte da un animale.",
+							"Japanese" : "動物を解体した時に入手できた骨のかけら。"
     },
 	"GAMEPLAY_Battery9V" : {
                             "English" : "Battery",
@@ -165,7 +185,8 @@
 							"Russian" : "Батарейка",
 							"French (France)": "Batterie",
 							"Turkish" : "Pil",
-							"Italian" : "Batteria"
+							"Italian" : "Batteria",
+							"Japanese" : "バッテリー"
     },
     "GAMEPLAY_Battery9VDescription" : {
                             "English" : "A 9V battery, intended for industrial use. This little thing is probably the last place you will find electricity.",
@@ -173,7 +194,8 @@
 							"Russian" : "9V батарейка, созданная для промышленных задач. Возможно, это последняя вещица в которой может быть электричество.",
 							"French (France)": "Une Batterie 9V, pour utilisation industrielle. Cette chose est probablement le dernier endroit où trouver de l'électricité.",
 							"Turkish" : "Endüstriyel kullanım için tasarlanmış 9V pil. Bu küçük şey muhtemelen elektrik bulabileceğin son yer.",
-	    					"Italian" : "Una batteria 9V, destinata per uso industriale. Questa piccola cosa è probabilmente l'ultimo posto dove troverai l'elettricità."
+	    					"Italian" : "Una batteria 9V, destinata per uso industriale. Questa piccola cosa è probabilmente l'ultimo posto dove troverai l'elettricità.",
+							"Japanese" : "電圧9ボルトの工業用バッテリー。これこそがおそらく、電力を得られる唯一のものだろう。"
     },
 	"GAMEPLAY_RifleBroken" : {
                             "English" : "Broken Hunting Rifle",
@@ -181,7 +203,8 @@
 							"Russian" : "Сломанное охотничье ружьё",
 							"French (France)": "Fusil de chasse endommagé",
 							"Turkish" : "Kırık Av Tüfeği",
-							"Italian" : "Fucile da Caccia Rotto"
+							"Italian" : "Fucile da Caccia Rotto",
+							"Japanese" : "壊れた狩猟用ライフル"
     },
     "GAMEPLAY_RifleBrokenDescription" : {
                             "English" : "An old .303 calibre bolt-action hunting rifle, broken beyond repair. Whoever owned this had a terrible end.",
@@ -189,7 +212,8 @@
 							"Russian" : "Старая винтовка .303 калибра со скользящим затвором, совершенно не ремонтопригодна. Кем бы ни был её прошлый владелец, это был суровый конец.",
 							"French (France)": "Un vieux fusil de chasse à verrou  calibre .303 irréparable. Le propriétaire, qui qu'il soit, a eu une fin terrible.",
 							"Turkish" : "Eski bir .303 kalibre bolt-action av tüfeği, tamir edilemeyecek şekilde kırılmış. Bunun sahibi her kimse sonu kötü bitmiş.",
-	    					"Italian" : "Un vecchio fucile da caccia a ripetizione calibro .303, rotto irreparabilmente. Chiunque possedeva questa ha avuto una brutta fine."
+	    					"Italian" : "Un vecchio fucile da caccia a ripetizione calibro .303, rotto irreparabilmente. Chiunque possedeva questa ha avuto una brutta fine.",
+							"Japanese" : "修理不可能なほど破損した古い303口径のボルトアクションライフル。前の所有者はひどい最期を遂げた。"
     },
 	"GAMEPLAY_NutsNBolts" : {
                             "English" : "Nuts and Bolts",
@@ -197,7 +221,8 @@
 							"Russian" : "Болты и гайки",
 							"French (France)": "Boulons et écrous",
 							"Turkish" : "Somunlar ve Cıvatalar",
-							"Italian" : "Dadi e Bulloni"
+							"Italian" : "Dadi e Bulloni",
+							"Japanese" : "ボルトとナット"
     },
     "GAMEPLAY_NutsNBoltsDescription" : {
                             "English" : "A bunch of assorted metal fasteners.",
@@ -205,7 +230,8 @@
 							"Russian" : "Несколько элементов различного крепежа.",
 							"French (France)": "Des attaches en métal assorties.",
 							"Turkish" : "Bir sürü metal bağlantı elemanı.",
-	    					"Italian" : "Un mucchio di elementi di fissaggio in metallo assortiti."
+	    					"Italian" : "Un mucchio di elementi di fissaggio in metallo assortiti.",
+							"Japanese" : "一山のボルトとナットの詰め合わせ。"
     },
 	"GAMEPLAY_NutsNBoltsBox" : {
                             "English" : "Nuts and Bolts Box",
@@ -213,7 +239,8 @@
 							"Russian" : "Коробка болтов и гаек",
 							"French (France)": "Boite de boulons et écrous",
 							"Turkish" : "Civata ve Somun Kutusu",
-							"Italian" : "Scatola di Dadi e Bulloni"
+							"Italian" : "Scatola di Dadi e Bulloni",
+							"Japanese" : "ボルトとナットの箱"
     },
     "GAMEPLAY_NutsNBoltsBoxDescription" : {
                             "English" : "A box of assorted metal fasteners.",
@@ -221,7 +248,8 @@
 							"Russian" : "Целая коробка различного крепежа",
 							"French (France)": "Une boîte d'attaches en métal assorties.",
 							"Turkish" : "Bir kutu dolusu çeşitli metal bağlantı elemanları.",
-	    					"Italian" : "Una scatola di elementi di fissaggio in metallo assortiti."
+	    					"Italian" : "Una scatola di elementi di fissaggio in metallo assortiti.",
+							"Japanese" : "ボルトとナットの詰め合わせの箱。"
     },
 	"GAMEPLAY_StringBundle" : {
                             "English" : "String Bundle",
@@ -229,7 +257,8 @@
 							"Russian" : "Пучок ниток",
 							"French (France)": "Rouleau de ficelle",
 							"Turkish" : "İp Yumağı",
-							"Italian" : "Fascio di Stringhe"
+							"Italian" : "Fascio di Stringhe",
+							"Japanese" : "糸巻き"
     },
     "GAMEPLAY_StringBundleDescription" : {
                             "English" : "A roll of nylon fibres meant for sewing.",
@@ -237,7 +266,8 @@
 							"Russian" : "Пучок нейлоновых ниток для шитья.",
 							"French (France)": "Un rouleau de ficelle de nylon pour la couture.",
 							"Turkish" : "Dikiş için kullanılan naylon ip.",
-							"Italian" : "Un rotolo di fibre nylon usate per cucire."
+							"Italian" : "Un rotolo di fibre nylon usate per cucire.",
+							"Japanese" : "縫製用ナイロン糸の糸巻き。"
     },
 	"GAMEPLAY_StringDurable" : {
                             "English" : "Durable String",
@@ -245,7 +275,8 @@
 							"Russian" : "Прочный трос",
 							"French (France)": "Ficelle résistante",
 							"Turkish" : "Dayanıklı İp",
-							"Italian" : "Corda Resistente"
+							"Italian" : "Corda Resistente",
+							"Japanese" : "丈夫な紐"
     },
     "GAMEPLAY_StringDurableDescription" : {
                             "English" : "A roll of strong fibres that can be used for craft and repair.",
@@ -253,7 +284,8 @@
 							"Russian" : "Рулон прочного троса который может пригодиться при изготовлении и ремонте вещей.",
 							"French (France)": "Un rouleau de ficelle résistante qui peux être utilisé pour la fabrication et la réparation.",
 							"Turkish" : "El sanatları ve onarım için kullanılabilen güçlü liflerden oluşan bir ip.",
-	    					"Italian" : "Un rotolo di fibre resisteni che possono essere usate per creare e riparare."
+	    					"Italian" : "Un rotolo di fibre resisteni che possono essere usate per creare e riparare.",
+							"Japanese" : "一巻きの丈夫な紐、製作や補修に使用できる。"
     },
 	"GAMEPLAY_GlassShards" : {
 							 "English" : "Glass Shards",
@@ -261,7 +293,8 @@
 							"Russian" : "Осколки стекла",
 							"French (France)": "Eclats de verre",
 							"Turkish" : "Cam Parçaları",
-							"Italian" : "Frammenti di Vetro"
+							"Italian" : "Frammenti di Vetro",
+							"Japanese" : "ガラス屑"
 	},
 	"GAMEPLAY_GlassShardsDescription" : {
 							"English" : "A couple of glass bottles, one of them broken. Be careful with that.",
@@ -269,7 +302,8 @@
 							"Russian" : "Несколько стеклянных бутылок, одна из них разбита. Будьте осторожны.",
 							"French (France)": "Quelques bouteilles en verre, l'une d'entre elle cassée. Faites attention.",
 							"Turkish" : "Birkaç cam şişe, biri kırık. Dikkatli ol.",
-							"Italian" : "Un paio di bottiglie in vetro, una di loro rotta. Fai attenzione con quella."
+							"Italian" : "Un paio di bottiglie in vetro, una di loro rotta. Fai attenzione con quella.",
+							"Japanese" : "数本のガラス瓶、うち一つが割れている。気を付けよう。"
 	},
 	"GAMEPLAY_CeramicShards" : {
 							 "English" : "Ceramic Shards",
@@ -277,7 +311,8 @@
 							"Russian" : "Осколки керамики",
 							"French (France)": "Morceaux de céramique",
 							"Turkish" : "Seramik Parçalar",
-							"Italian" : "Frammenti di Ceramica"
+							"Italian" : "Frammenti di Ceramica",
+							"Japanese" : "陶器の破片"
 	},
 	"GAMEPLAY_CeramicShardsDescription" : {
 							"English" : "Broken pieces of hardened clay.",
@@ -285,7 +320,8 @@
 							"Russian" : "Кусочки сломаной обожженной глины.",
 							"French (France)": "Morceaux de céramique cassés.",
 							"Turkish" : "Sertleşmiş kilden kırık parçalar.",
-							"Italian" : "Pezzi rotti di argilla indurita."
+							"Italian" : "Pezzi rotti di argilla indurita.",
+							"Japanese" : "焼き固められた粘土の破片。"
 	},
 	"GAMEPLAY_RecycledGlass" : {
                             "English" : "Reclaimed Glass",
@@ -293,7 +329,8 @@
 							"Russian" : "Восстановленное стекло",
 							"French (France)": "Verre recyclé",
 							"Turkish" : "Geri Kazanılmış Cam",
-							"Italian" : "Vetro Riciclato"
+							"Italian" : "Vetro Riciclato",
+							"Japanese" : "再生ガラス"
     },
     "GAMEPLAY_RecycledGlassDescription" : {
                             "English" : "A sheet of remelted glass shards.",
@@ -301,7 +338,8 @@
 							"Russian" : "Стеклянное полотно из расплавленных осколков.",
 							"French (France)": "Une feuille de verre refondu à partir de fragments.",
 							"Turkish" : "Eritilmiş cam parçalarından oluşan bir levha.",
-	    					"Italian" : "Una lastra di frammenti di vetro rifusi."
+	    					"Italian" : "Una lastra di frammenti di vetro rifusi.",
+							"Japanese" : "溶かしたガラス屑を板にしたもの。"
     },
 	"GAMEPLAY_RecycledPlastic" : {
                             "English" : "Processed Plastic",
@@ -309,7 +347,8 @@
 							"Russian" : "Переработанный пластик",
 							"French (France)": "Plastique recyclé",
 							"Turkish" : "İşlenmiş Plastik",
-							"Italian" : "Plastica Elaborata"
+							"Italian" : "Plastica Elaborata",
+							"Japanese" : "再生プラスチック"
     },
     "GAMEPLAY_RecycledPlasticDescription" : {
                             "English" : "A sheet of recycled plastic waste.",
@@ -317,7 +356,8 @@
 							"Russian" : "Полотно из переработанного пластикового мусора.",
 							"French (France)": "Une feuille de déchets plastique recyclés.",
 							"Turkish" : "Geri dönüştürülmüş plastik atık levhası.",
-	    					"Italian" : "Una lastra di plastica riciclata."
+	    					"Italian" : "Una lastra di plastica riciclata.",
+							"Japanese" : "プラスチックごみを再利用して作られた板。"
     },
 	"GAMEPLAY_HeapSingle": {
 							"English" : "heap.",
@@ -325,7 +365,8 @@
 							"Russian" : "куча.",
 							"French (France)": "amas.",
 							"Turkish" : "yığın",
-							"Italian" : "mucchio."
+							"Italian" : "mucchio.",
+							"Japanese" : "山"
 	},
 	"GAMEPLAY_HeapMultiple" : {
 							"English" : "heaps.",
@@ -333,7 +374,8 @@
 							"Russian" : "кучи.",
 							"French (France)": "amas.",
 							"Turkish" : "yığınlar",
-							"Italian" : "cumuli."
+							"Italian" : "cumuli.",
+							"Japanese" : "山"
 	},	
 	"GAMEPLAY_SheetSingle" : {
 							"English" : "sheet",
@@ -341,7 +383,8 @@
 							"Russian" : "полотно",
 							"French (France)": "feuille",
 							"Turkish" : "levha",
-							"Italian" : "lastra"
+							"Italian" : "lastra",
+							"Japanese" : "シート"
 	},
 	"GAMEPLAY_SheetMultiple" : {
 							"English" : "sheets",
@@ -349,7 +392,8 @@
 							"Russian" : "полотна",
 							"French (France)": "feuilles",
 							"Turkish" : "levhalar",
-							"Italian" : "lastre"
+							"Italian" : "lastre",
+							"Japanese" : "シート"
 	},
 	"GAMEPLAY_ChunkSingle": {
 							"English" : "chunk.",
@@ -357,7 +401,8 @@
 							"Russian" : "кусок.",
 							"French (France)": "morceau.",
 							"Turkish" : "parça",
-							"Italian" : "pezzo."
+							"Italian" : "pezzo.",
+							"Japanese" : "塊"
 	},
 	"GAMEPLAY_ChunkMultiple" : {
 							"English" : "chunks.",
@@ -365,7 +410,8 @@
 							"Russian" : "куски.",
 							"French (France)": "morceaux.",
 							"Turkish" : "parçalar",
-							"Italian" : "pezzi."
+							"Italian" : "pezzi.",
+							"Japanese" : "塊"
 	},	
 	"GAMEPLAY_BatterySingle" : {
 							"English" : "battery",
@@ -373,7 +419,8 @@
 							"Russian" : "батарейка",
 							"French (France)": "batterie",
 							"Turkish" : "pil",
-							"Italian" : "batteria"
+							"Italian" : "batteria",
+							"Japanese" : "バッテリー"
 	},
 	"GAMEPLAY_BatteryMultiple" : {
 							"English" : "batteries",
@@ -381,7 +428,8 @@
 							"Russian" : "батарейки",
 							"French (France)": "batteries",
 							"Turkish" : "piller",
-							"Italian" : "batterie"
+							"Italian" : "batterie",
+							"Japanese" : "バッテリー"
 	},
 	"GAMEPLAY_BoxSingle": {
 							"English" : "box.",
@@ -389,7 +437,8 @@
 							"Russian" : "ящик.",
 							"French (France)": "boîte.",
 							"Turkish" : "kutu",
-							"Italian" : "scatola."
+							"Italian" : "scatola.",
+							"Japanese" : "箱"
 	},
 	"GAMEPLAY_BoxMultiple" : {
 							"English" : "boxes.",
@@ -397,7 +446,8 @@
 							"Russian" : "ящики.",
 							"French (France)": "boîtes.",
 							"Turkish" : "kutular",
-							"Italian" : "scatole."
+							"Italian" : "scatole.",
+							"Japanese" : "箱"
 	},
 	"GAMEPLAY_RollSingle": {
 							"English" : "roll.",
@@ -405,7 +455,8 @@
 							"Russian" : "рулон.",
 							"French (France)": "rouleau.",
 							"Turkish" : "rulo",
-							"Italian" : "rotolo."
+							"Italian" : "rotolo.",
+							"Japanese" : "ロール"
 	},
 	"GAMEPLAY_RollMultiple" : {
 							"English" : "rolls.",
@@ -413,7 +464,8 @@
 							"Russian" : "рулоны.",
 							"French (France)": "rouleaux.",
 							"Turkish" : "rulolar",
-							"Italian" : "rotoli."
+							"Italian" : "rotoli.",
+							"Japanese" : "ロール"
 	},
 	"GAMEPLAY_MTB_DismantleLabel" : {
 							"English" : "Dismantle",
@@ -421,7 +473,8 @@
 							"Russian" : "Разобрать",
 							"French (France)": "Démanteler",
 							"Turkish" : "Sök",
-							"Italian" : "Smantella"
+							"Italian" : "Smantella",
+							"Japanese" : "解体"
 	},
 	"GAMEPLAY_MTB_DismantleProgressBar": {
 							"English" : "Dismantling...",
@@ -429,7 +482,8 @@
 							"Russian" : "Разбор...",
 							"French (France)": "Démantèlement..",
 							"Turkish" : "Sökülüyor...",
-							"Italian" : "Smantellamento..."
+							"Italian" : "Smantellamento...",
+							"Japanese" : "解体中…"
 	},
 	"GAMEPLAY_MTB_NoDismantle" : {
 							"English" : "You can't dismantle a gun without tools.",
@@ -437,7 +491,8 @@
 							"Russian" : "Нельзя разбирать без инструментов.",
 							"French (France)": "Vous ne pouvez démanteler une arme sans outils.",
 							"Turkish" : "Aletler olmadan bir silahı sökemezsin.",
-							"Italian" : "Non puoi smantellare un'arma da fuoco senza attrezzi."
+							"Italian" : "Non puoi smantellare un'arma da fuoco senza attrezzi.",
+							"Japanese" : "工具なしでは銃の解体はできません。"
 	},
 	"GAMEPLAY_MTB_ReplenishLabel" : {
 							"English" : "Replenish",
@@ -445,7 +500,8 @@
 							"Russian" : "Пополнить",
 							"French (France)": "Réapprovisionner",
 							"Turkish" : "Yeniden doldur",
-							"Italian" : "Rifornisci"
+							"Italian" : "Rifornisci",
+							"Japanese" : "補充する"
 	},
 	"GAMEPLAY_MTB_HighCondition": {
 							"English" : "This sewing kit still have enough string.",
@@ -453,7 +509,8 @@
 							"Russian" : "В швейном наборе еще достаточно ниток.",
 							"French (France)": "Ce kit de couture a suffisamment de fil",
 							"Turkish" : "Bu dikiş setinde hâlâ yeterince ip var.",
-							"Italian" : "Questo kit da cucito ha abbastanza stringhe."
+							"Italian" : "Questo kit da cucito ha abbastanza stringhe.",
+							"Japanese" : "この裁縫セットにはまだ十分糸があります。"
 	},
 	"GAMEPLAY_MTB_NoString" : {
 							"English" : "You don't have enough string.",
@@ -461,6 +518,7 @@
 							"Russian" : "Недостаточно ниток.",
 							"French (France)": "Vous n'avez pas assez de fil.",
 							"Turkish" : "Yeterince ipin yok.",
-							"Italian" : "Non hai abbastanza stringhe."
+							"Italian" : "Non hai abbastanza stringhe.",
+							"Japanese" : "糸が足りません。"
 	}		
 }
